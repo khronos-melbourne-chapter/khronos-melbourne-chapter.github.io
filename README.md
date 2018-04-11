@@ -8,6 +8,9 @@ To be announced!
 
 Melbourne has an active and vibrant creative and technical enthusiast community in many fields using Khronos open standards. The chapter aims to serve anyone interested in using these technology standards for greater good, and is an opportune venue to meet like-minded individuals. The Khronos Group offers much support for every developer and creator community, including Melbourne.
 
+ * **Slack:** khronos-mel.slack.com ([join link](https://join.slack.com/t/khronos-mel/shared_invite/enQtMzQzOTY4ODcwOTI4LTIwYWM2Mjg0ZjQyOGRmYTgyMGFlNjFlODdlZDQ2YTg4MWE3ZDI5YmY1OTBkY2RjMTI2ZDcwNmMwZjcyOTBhZTQ))
+ * **Twitter:** https://twitter.com/KhronosMEL
+
 ## What to expect
 
  * Show your laptop, phone, or anything you are working on. It might be a game, technology, or a weird experiment.
