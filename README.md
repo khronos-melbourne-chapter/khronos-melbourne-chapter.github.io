@@ -1,5 +1,11 @@
 # Khronos Melbourne Chapter
 
+## Next meetup
+
+To be announced!
+
+## About the chapter
+
 Melbourne has an active and vibrant creative and technical enthusiast community in many fields using Khronos open standards. The chapter aims to serve anyone interested in using these technology standards for greater good, and is an opportune venue to meet like-minded individuals. The Khronos Group offers much support for every developer and creator community, including Melbourne.
 
 ## What to expect
@@ -7,6 +13,10 @@ Melbourne has an active and vibrant creative and technical enthusiast community 
  * Show your laptop, phone, or anything you are working on. It might be a game, technology, or a weird experiment.
  * Share the latest news with fellow graphics enthusiasts, over a beverage of your choice.
  * Bring a respectful and inclusive mindset to the meetup.
+
+## Suggest an idea
+
+Post a new [Github issue](https://github.com/khronos-melbourne-chapter/khronos-melbourne-chapter.github.io/issues) and begin a discussion. :)
 
 ## Meetup time
 
@@ -29,5 +39,5 @@ Xavier Ho (contact@xavierho.com)
 
 ## Subscribe to updates
 
-[Watch this repository with your GitHub account.](https://github.com/khronos-melbourne-chapter/khronos-melbourne-chapter.github.io/subscription).
+[Watch this repository with your GitHub account](https://github.com/khronos-melbourne-chapter/khronos-melbourne-chapter.github.io/subscription).
 
