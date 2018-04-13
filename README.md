@@ -1,8 +1,6 @@
+![logo](logo.png)
+
 # [Khronos Melbourne Chapter](https://khronos-melbourne-chapter.github.io)
-
-## Next meetup
-
-To be announced!
 
 ## About the chapter
 
@@ -10,6 +8,15 @@ Melbourne has an active and vibrant creative and technical enthusiast community 
 
  * **Slack:** khronos-mel.slack.com ([join link](https://join.slack.com/t/khronos-mel/shared_invite/enQtMzQzOTY4ODcwOTI4LTIwYWM2Mjg0ZjQyOGRmYTgyMGFlNjFlODdlZDQ2YTg4MWE3ZDI5YmY1OTBkY2RjMTI2ZDcwNmMwZjcyOTBhZTQ))
  * **Twitter:** https://twitter.com/KhronosMEL
+
+## Upcoming events
+
+### Khronos Melbourne Social Night
+
+Where: [**Pilgrim Bar**](http://www.pilgrimbar.com.au/) ([map](https://goo.gl/maps/cU1b2XVSBGq))
+
+When: Every last Thursday of the month<br>
+**6:00 PM to 7:30 PM, Thurday 26th April, 2018**
 
 ## What to expect
 
@@ -20,10 +27,6 @@ Melbourne has an active and vibrant creative and technical enthusiast community 
 ## Suggest an idea
 
 Post a new [Github issue](https://github.com/khronos-melbourne-chapter/khronos-melbourne-chapter.github.io/issues) and begin a discussion. :)
-
-## Meetup time
-
-[First/Second/etc] [Weekday] of the month from 6:00pm to 7:30pm at [Cafe/Bar/Place] (to be decided.)
 
 ## Code of Conduct
 
@@ -43,4 +46,6 @@ Xavier Ho (contact@xavierho.com)
 ## Subscribe to updates
 
 [Watch this repository with your GitHub account](https://github.com/khronos-melbourne-chapter/khronos-melbourne-chapter.github.io/subscription).
+
+You can also watch our [Twitter](https://twitter.com/KhronosMEL), or join our [Slack channel](khronos-mel.slack.com).
 
